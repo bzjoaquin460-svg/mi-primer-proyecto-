@@ -1,2 +1,4 @@
 # mi-primer-proyecto-
-mi primer proyecto de programación 
+hola, soy joaquin.
+este es mi primer proyecto en GitHub.
+voy a aprender programacion
